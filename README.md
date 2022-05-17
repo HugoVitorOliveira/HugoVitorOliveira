@@ -1,6 +1,6 @@
 ### Olá! eu sou o Hugo Vitor de Oliveira Moura
 
-- 🌱 Estou atualmente estudando o básico do TypeScript
+- 🌱 Estou atualmente estudando React.
 - 😄 Pronomes: ele/dele
 
 <div align="center">
