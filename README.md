@@ -1,6 +1,6 @@
 ### Olá! eu sou o Hugo Vitor de Oliveira Moura
 
-- 🌱 Estou atualmente estudando React e me aprofundando no CSS e JavaScript.
+- 🌱 Estou atualmente estudando os básicos do React e me aprofundando no CSS e JavaScript.
 - 😄 Pronomes: ele/dele
 
 <div align="center">
