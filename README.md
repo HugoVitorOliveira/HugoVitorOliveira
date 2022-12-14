@@ -1,6 +1,6 @@
 ### Olá! eu sou o Hugo Vitor de Oliveira Moura
 
-- 🌱 Estou atualmente me aprofundando no CSS e JavaScript.
+- 🌱 Estou Cursando ADS na UNINTER
 - 😄 Pronomes: ele/dele
 
 <div align="center">
