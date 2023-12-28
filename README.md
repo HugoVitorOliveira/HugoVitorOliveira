@@ -1,7 +1,7 @@
 ### Olá! eu sou o Hugo Vitor de Oliveira Moura
 
 - 🌱 Estou Cursando ADS na UNINTER
-- 😄 Pronomes: ele/dele
+- 😄 menino dos "compiuter"
 
 <div align="center">
   <a href="https://github.com/HugoVitorOliveira">
