@@ -1,7 +1,7 @@
 ### Olá! eu sou o Hugo Vitor de Oliveira Moura
 
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
-- 😄 menino dos "compiuter"
+- 😄 menino dos computador que pedem pra concertar impressora (geralmente consigo)
 - ☕ Focado em Java e BackEnd, mas também tenho conhecimentos de Front-End e UX/UI
 
 <div align="center">
