@@ -2,6 +2,7 @@
 
 - 🌱 Estou Cursando ADS na UNINTER
 - 😄 menino dos "compiuter"
+- Focado em Java e BackEnd, mas também tenho conhecimentos de Front-End e UX/UI
 
 <div align="center">
   <a href="https://github.com/HugoVitorOliveira">
