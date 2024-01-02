@@ -1,6 +1,6 @@
 ### Olá! eu sou o Hugo Vitor de Oliveira Moura
 
-- 🌱 Estou Cursando ADS na UNINTER
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas
 - 😄 menino dos "compiuter"
 - ☕ Focado em Java e BackEnd, mas também tenho conhecimentos de Front-End e UX/UI
 
