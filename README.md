@@ -2,7 +2,7 @@
 
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
 - 😄 menino dos computador, curto IA e algoritmos, mas aqui fazemos CRUD também! kkk
-- ☕ Atualmente trabalhando com Angular, mas tenho conhecimentos em SpringBoot (java) e python!
+- ☕ Atualmente trabalhando com Angular, mas tenho conhecimentos em SpringBoot (framework Java) e python!
 
 <div align="center">
   <a href="https://github.com/HugoVitorOliveira">
