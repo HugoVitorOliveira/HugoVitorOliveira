@@ -1,8 +1,8 @@
 ### Olá! eu sou o Hugo Vitor de Oliveira Moura
 
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
-- 😄 menino dos computador que pedem pra concertar impressora (geralmente consigo)
-- ☕ Focado em Java e BackEnd, mas também tenho conhecimentos de Front-End e UX/UI
+- 😄 menino dos computador, curto IA e algoritmos, mas aqui fazemos CRUD também! kkk
+- ☕ Atualmente trabalhando com Angular, mas tenho conhecimentos em SpringBoot (java) e python!
 
 <div align="center">
   <a href="https://github.com/HugoVitorOliveira">
@@ -13,9 +13,9 @@
   <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="SCSS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
