@@ -1,8 +1,8 @@
 ### Olá! eu sou o Hugo Vitor de Oliveira Moura
 
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas
-- 😄 menino dos computador, curto IA e algoritmos, mas aqui fazemos CRUD também! kkk
-- ☕ Atualmente trabalhando com Angular, mas tenho conhecimentos em SpringBoot (framework Java) e python!
+- 😄 "Dev desenrolation"
+- ☕ Trabalho como desenvolvedor fullstack utilizando Angular e Java (Quarkus)
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/HugoVitorOliveira">
