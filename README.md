@@ -1,7 +1,7 @@
 ### Olá! eu sou o Hugo Vitor de Oliveira Moura
 
 - 😄 "Dev desenrolation"
-- ☕ Trabalho como desenvolvedor fullstack utilizando Angular e Java (Quarkus)
+- ☕ Trabalho como desenvolvedor Fullstack utilizando Angular e Java (Quarkus)
 - 🌱 Formado em Análise e Desenvolvimento de Sistemas
 
 <div align="center">
