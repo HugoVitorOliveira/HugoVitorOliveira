@@ -48,19 +48,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/HugoVitorOliveira/HugoVitorOliveira/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/HugoVitorOliveira/count.svg?"  />
-</div>
-
-###
-
-<div align="left">
 </div>
 
 ###
