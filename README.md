@@ -2,6 +2,7 @@
 
 ###
 
+<div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -32,14 +33,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
+</div>
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBmMWdxYXNqOWNidWY2eG8wYmZ5ZnB1N3IwN2owMWZ0N3U3NzN2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t1lHSMTTlhinXGHc0S/giphy.gif"  />
 
-###
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HugoVitorOliveira" />
-
-
-###
