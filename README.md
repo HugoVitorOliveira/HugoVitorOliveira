@@ -2,7 +2,11 @@
   Hi 👋! My name is Hugo and I'm a Fullstack Developer, from Paraná, Brazil.
 </h2>
 
-    <div align="left">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+
+  <div>
+
+  <div align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
       <img width="12"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/>
@@ -22,8 +26,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
     </div>
 
-    <br/>
-    <div align="left">
+  <br/>
+
+  <div align="left">
       <a href="mailto:contatohugovitoroliveira@gmail.com" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
       </a>
@@ -31,6 +36,8 @@
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
       </a>
     </div>
+
+  </div>
 
   <div>
     <img height="150"
