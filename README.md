@@ -2,7 +2,7 @@
   Hi 👋! My name is Hugo and I'm a Fullstack Developer, from Paraná, Brazil.
 </h2>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex-inline; justify-content: space-between; align-items: center;">
 
   <div>
 
