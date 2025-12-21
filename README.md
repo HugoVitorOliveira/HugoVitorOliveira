@@ -39,6 +39,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/HugoVitorOliveira/HugoVitorOliveira/output/snake.svg" alt="Snake animation" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HugoVitorOliveira" />
+
 
 ###
