@@ -3,8 +3,11 @@
 </h2>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
+
+  <!-- ESQUERDA -->
   <div>
 
+    <!-- ÍCONES -->
     <div align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
       <img width="12"/>
@@ -27,6 +30,7 @@
 
     <br/>
 
+    <!-- LINKS -->
     <div align="left">
       <a href="mailto:contatohugovitoroliveira@gmail.com" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
@@ -37,6 +41,8 @@
     </div>
 
   </div>
+
+  <!-- DIREITA -->
   <div>
     <img height="150"
       src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBmMWdxYXNqOWNidWY2eG8wYmZ5ZnB1N3IwN2owMWZ0N3U3NzN2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t1lHSMTTlhinXGHc0S/giphy.gif"/>
